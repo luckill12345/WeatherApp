@@ -1,4 +1,5 @@
 .idea/
 location.txt
 WeatherApp/
-weatherApp.json
+.DS_Store
+weatherData.json
