@@ -2,4 +2,4 @@
 location.txt
 WeatherApp/
 .DS_Store
-weatherData.json
+*.json
